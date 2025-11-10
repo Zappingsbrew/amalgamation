@@ -1,4 +1,4 @@
-# TO-DO
+# REISIR'S WISHES
 
 - [x] Make a git repository
 - [x] Save bars as hashtables instead of moving the .ini
